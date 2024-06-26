@@ -3,3 +3,4 @@ appengine-generated/
 node_modules/
 server.js/
 server.js
+.env
